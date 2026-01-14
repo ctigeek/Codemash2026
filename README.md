@@ -11,7 +11,7 @@
 
 🔗 [GitHub - skilldrick-6502js- A JavaScript 6502 assembler and simulator](https://github.com/skilldrick/6502js)
 
-🔗 [Data sheet for the 128k memory chip. (PDF!!!)](https://blah.blah)
+🔗 [Data sheet for the 128k memory chip. (PDF!!!)](https://www.alliancememory.com/wp-content/uploads/AS6C1008_Mar_2023V1.2.pdf)
 
 🔗 [Ben Eater on Youtube.](https://www.youtube.com/c/BenEater)
 
