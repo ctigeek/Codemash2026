@@ -1,2 +1,8 @@
 # Codemash2026
-Lab code for the 8-bit computer session.
+
+##Links
+
+
+🔗 [6502 Instruction Set](https://www.masswerk.at/6502/6502_instruction_set.html)
+
+
