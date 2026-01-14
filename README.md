@@ -1,7 +1,7 @@
 # Codemash2026
 
-##Links
-
+## Links
+🔗 [Google Slide deck](https://docs.google.com/presentation/d/1RIGgnFI1yRa-CmS0CDPzg6QE0bLw25qgHop-VsDTDVs/edit?usp=sharing)
 
 🔗 [6502 Machine Code Reference](https://www.masswerk.at/6502/6502_instruction_set.html)
 
