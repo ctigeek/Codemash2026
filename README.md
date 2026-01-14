@@ -7,7 +7,7 @@
 
 🔗 [Data sheet for the W65C02 CPU. (PDF!!!)](https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf)
 
-🔗 [Data sheet for the 128k memory chip. (PDF!!!)](https://blah.blah)
+🔗 [Data sheet for the 128k memory chip. (PDF!!!)](https://www.alliancememory.com/wp-content/uploads/AS6C1008_Mar_2023V1.2.pdf)
 
 🔗 [GitHub - skilldrick-6502js- A JavaScript 6502 assembler and simulator](https://github.com/skilldrick/6502js)
 
