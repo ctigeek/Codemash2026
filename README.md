@@ -19,4 +19,6 @@
 
 🔗 [cc65 - a freeware C compiler for 6502 based systems](https://cc65.github.io/)
 
+🔗 [Memory Map for the custom board.](https://docs.google.com/spreadsheets/d/1_RDt542xlYXVoS8Ml4_N6-6_q2toZ55fskhPRxK2WY0/edit?usp=sharing)
 
+🔗 [CAD files for PCB](https://github.com/ctigeek/arduinoRom)
